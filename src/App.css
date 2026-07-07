@@ -390,24 +390,22 @@
     font-style: normal;
     font-weight: 700;
     text-decoration: underline;
-    margin-bottom: 28px;
+    margin-bottom: 32px;
   }
 }
 
-.outro {
+#outro {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* margin-top: 28px; */
-
-  p {
-    font-size: clamp(20px, 3.8vw, 20px);
-    font-style: italic;
-    font-weight: 500;
-    color: #2f2f2f;
-    text-align: center;
-    line-height: 20px;
-  }
+  /* margin-top: 32px; */
+  font-family: "Cormorant Garamond", serif;
+  font-size: clamp(18px, 3.8vw, 20px);
+  font-weight: 800;
+  color: #6b6b6b;
+  text-align: center;
+  line-height: 20px;
+  margin-bottom: 0;
 }
 
 .compliments {
@@ -423,7 +421,6 @@
     font-weight: 700;
   }
 }
-
 
 .scrollUp {
   display: flex;

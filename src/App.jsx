@@ -226,9 +226,12 @@ export default function App() {
             <p>&</p>
             <h1>Mr. Mahamadsharif Patil</h1>
           </div>
-          <p>request the honor of your presence to celebrate the walima ceremony of our youngest son</p>
+          <p>
+            request the honor of your presence to celebrate the walima ceremony
+            of our youngest son
+          </p>
           <div className="scrollUp">
-            <p>join us</p>
+            <p>walima</p>
             <span className="material-symbols-outlined">arrow_downward</span>
           </div>
         </div>
@@ -244,7 +247,7 @@ export default function App() {
             </div>
           </div>
           <div className="scrollUp">
-            <p>walima</p>
+            <p>details</p>
             <span className="material-symbols-outlined">arrow_downward</span>
           </div>
         </div>
@@ -261,44 +264,23 @@ export default function App() {
           <div className="placeInfo">
             <p>Address At</p>
             <div className="address">
-              <a href="https://maps.app.goo.gl/SxdPfUWvuDT3jJPR7" target="blank">Jai Palace, Lake Kalamba - Gargoti Rd, Kolahpur</a>
+              <a
+                href="https://maps.app.goo.gl/SxdPfUWvuDT3jJPR7"
+                target="blank"
+              >
+                Jai Palace, Lake Kalamba - Gargoti Rd, Kolahpur
+              </a>
             </div>
           </div>
           <div className="placeInfo">
             <p>with best compliments from</p>
             <div className="compliments">
-              <h1>Mrs. Tazin & Mr. Faisal Patil</h1>
+              <h1>Tazin & Faisal Patil</h1>
             </div>
           </div>
-          <div className="scrollUp">
-            <p>Nikah</p>
-            <span className="material-symbols-outlined">arrow_downward</span>
-          </div>
-        </div>
-        <div className="nikah infoSection">
-          <img src="/images/nikahFlo.png" />
-          <div className="placeInfo">
-            <p>Nikah Ceremony</p>
-            <div className="place">
-              <h1>July 31st, 2026</h1>
-              <hr />
-              <h1>8:30 PM</h1>
-            </div>
-          </div>
-          <div className="placeInfo">
-            <p>Address At</p>
-            <div className="address">
-              <a
-                href="https://maps.app.goo.gl/hcAQVvHNcRdkHMzn9"
-                target="blank"
-              >
-                Rhodium-7 Convention, Rajendra Nagar, Hyderabad
-              </a>
-            </div>
-          </div>
-          <p className="outro">
-            presents accepted in blessings only.
-            <br /> your presence is what matters most to us.
+          <p id="outro">
+            Presents accepted in blessings only.
+            <br /> Your presence is what matters most to us.
           </p>
         </div>
       </div>
