@@ -241,7 +241,7 @@ export default function App() {
             {/* <p>for</p> */}
             <div className="hosts">
               <h1>Hidayat Patil</h1>
-              <p>to</p>
+              <p>&</p>
               <h1>Asma Ibrahim</h1>
               <p>D/o. Mrs. Fatima & Mr. Mohammed Ibrahim</p>
             </div>
