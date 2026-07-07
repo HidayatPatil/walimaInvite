@@ -1,0 +1,9 @@
+html, body {
+  position: static;
+  overscroll-behavior: none;
+}
+
+body {
+  background-color: #F5F2E9;
+  font-family: "Cormorant Garamond", serif;
+}
