@@ -258,7 +258,7 @@ export default function App() {
             <div className="place">
               <h1>August 2nd, 2026</h1>
               <hr />
-              <h1>12:00 PM</h1>
+              <h1>11:00 PM</h1>
             </div>
           </div>
           <div className="placeInfo">
