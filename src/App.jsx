@@ -268,7 +268,7 @@ export default function App() {
                 href="https://maps.app.goo.gl/SxdPfUWvuDT3jJPR7"
                 target="blank"
               >
-                Jai Palace, Lake Kalamba - Gargoti Rd, Kolahpur
+                Jai Palace, Lake Kalamba - Gargoti Rd, Kolhapur
               </a>
             </div>
           </div>
